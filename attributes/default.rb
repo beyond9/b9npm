@@ -31,5 +31,9 @@ default[:npm][:list] =
     { 
       'name'=>'grunt-cli', 
       'version' => '0.1.11'
+    },
+    { 
+      'name'=>'log.io', 
+      'version' => '0.3.3'
     }
 ]

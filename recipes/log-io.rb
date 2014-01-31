@@ -1,8 +1,3 @@
-b9npm_npm "log.io" do
-  version "0.3.3"
-  action :install
-end
-
 # start log.io
 
 directory "/root/.log.io" do

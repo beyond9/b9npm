@@ -2,7 +2,7 @@ default[:npm][:list] =
 [
     { 
       'name'=>'less', 
-      'version' => '1.3.3'
+      'version' => '1.7.0'
     },
     { 
       'name'=>'recess', 
@@ -25,12 +25,8 @@ default[:npm][:list] =
       'version' => '2.4.8'
     },
     { 
-      'name'=>'compass', 
-      'version' => '0.1.0'
-    },
-    { 
       'name'=>'grunt-cli', 
-      'version' => '0.1.11'
+      'version' => '0.1.13'
     },
     { 
       'name'=>'log.io', 

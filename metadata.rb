@@ -1,4 +1,5 @@
 name 'b9npm'
+version '0.0.1'
 
 recipe "b9npm", "Install NPM"
 recipe "b9npm::log-io", "Install and configure Log.io"

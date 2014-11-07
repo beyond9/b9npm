@@ -1,35 +1,27 @@
 default[:npm][:list] = 
 [
     { 
-      'name'=>'less', 
-      'version' => '1.7.0'
+      'name'=>'less'
     },
     { 
-      'name'=>'recess', 
-      'version' => '1.1.8'
+      'name'=>'recess'
     },
     { 
-      'name'=>'uglify-js', 
-      'version' => '2.3.6'
+      'name'=>'uglify-js'
     },
     { 
-      'name'=>'jshint', 
-      'version' => '2.1.4'
+      'name'=>'jshint'
     },
     { 
-      'name'=>'yui', 
-      'version' => '3.10.0'
+      'name'=>'yui'
     },
     { 
-      'name'=>'yuicompressor', 
-      'version' => '2.4.8'
+      'name'=>'yuicompressor'
     },
     { 
-      'name'=>'grunt-cli', 
-      'version' => '0.1.13'
+      'name'=>'grunt-cli'
     },
     { 
-      'name'=>'log.io', 
-      'version' => '0.3.3'
+      'name'=>'log.io'
     }
 ]

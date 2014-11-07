@@ -10,7 +10,6 @@ end
 
 node[:npm][:list].each do |a_package|
   b9npm_npm "#{a_package.name}" do
-    version "#{a_package.version}"
     action :install
   end 
 end
